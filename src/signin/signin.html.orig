@@ -1,0 +1,23 @@
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sign in</title>
+</head>
+<body>
+<h2>A sign in page</h2>
+<<<<<<< HEAD
+<div>
+	
+	<form>
+		<table></table>>
+	</form>>
+</div>>
+=======
+    
+    <h1>a new table should be created</h1>
+
+>>>>>>> 3274148cd8b5adc275811c84ea6c234b8e296c27
+<script type="text/javascript" src="signin/signin.js"></script>
+</body>
+</html>

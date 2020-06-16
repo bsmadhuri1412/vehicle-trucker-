@@ -1,1 +1,3 @@
-console.log("hello world");
+function msg(){  
+ alert("Hello Javatpoint");  
+} 

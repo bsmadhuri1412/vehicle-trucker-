@@ -2,3 +2,7 @@ body{
     color: coral;
     background: aliceblue;
 }
+
+section {
+    height: 20px
+}
